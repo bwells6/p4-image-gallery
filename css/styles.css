@@ -1,21 +1,23 @@
 /* Your Website Styles */
-html{
-  background: #666;
-}
-.col{
-	background: orange;
+
+
+
+article
+{
+
+  border: 5px black solid;
 }
 
+
+
 nav {margin-top: 135px}
-.port{background: blue;
+.port{
 text-align: center;
 
 }
 
 
-.container{
-  background: red;
-}
+
 
 /* Styles the thumbnail */
 
@@ -137,8 +139,9 @@ top: 0px;
 /* nav up top */
 
 body { 
-  background:#ccc; 
+   background: red;
   font-family:"Trebuchet MS";
+  color:black;
   letter-spacing:.1em;
   margin:3em;
   text-transform:uppercase;
