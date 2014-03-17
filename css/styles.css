@@ -1,13 +1,33 @@
 /* Your Website Styles */
-
-
-
-article
-{
-
-  border: 5px black solid;
+html {
+  background: url(../img/subtle_surface.png);
+  font-family: 'Advent Pro', sans-serif;
 }
 
+
+footer{
+  background: #333;
+}
+footer div img{
+
+  background: #555;
+ margin-top: 3px;
+  border-radius: 50px;
+  height: 50px;
+  line-height: 50px;
+  width: 50px;
+  
+  text-align: center;
+  
+}
+
+footer div img:hover{
+  background:white;
+
+}
+a{
+  text-decoration: none;
+}
 
 
 nav {margin-top: 135px}
@@ -139,12 +159,12 @@ top: 0px;
 /* nav up top */
 
 body { 
-   background: red;
-  font-family:"Trebuchet MS";
+   
+  
   color:black;
   letter-spacing:.1em;
   margin:3em;
-  text-transform:uppercase;
+  
   }
 
 nav {
