@@ -3,20 +3,22 @@ html {
   background: url(../img/subtle_surface.png);
   font-family: 'Advent Pro', sans-serif;
 }
-
+.top{
+  text-align: right;
+}
 
 footer{
   background: #333;
-}
-footer div img{
+  color: white;
+   }
+footer div img {
 
   background: #555;
- margin-top: 3px;
+  margin-top: 3px;
   border-radius: 50px;
   height: 50px;
   line-height: 50px;
   width: 50px;
-  
   text-align: center;
   
 }
