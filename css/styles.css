@@ -1,10 +1,12 @@
 /* Your Website Styles */
 html {
-  background: url(img/subtle_surface.png);
   font-family: 'Advent Pro', sans-serif;
+   background: url(../img/subtle_surface.png);
+
 }
 .top{
   text-align: right;
+
 }
 
 footer{
