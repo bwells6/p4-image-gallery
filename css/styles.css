@@ -180,7 +180,10 @@ body {
   
   }
 
+
 nav {
+    margin-top: 6em;
+  margin-right:2em;
 	text-align: center;
 	font-size: 1.25em;
   }	
